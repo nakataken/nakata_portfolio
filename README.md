@@ -2,4 +2,4 @@
 
 Ken Nakata's Portfolio website
 
-Live at: https://github.com/nakataken/nakata_portfolio.git
+Live link: https://nakataken.github.io/nakata_portfolio/
